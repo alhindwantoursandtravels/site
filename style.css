@@ -166,12 +166,9 @@ section .title::after{
 .home{
     display: flex;
     background: url("images/banner.jpg") no-repeat center;
-    height: 100vh;
-    color: #fff;
-    min-height: 500px;
-    background-size: cover;
-    background-attachment: fixed;
-    font-family: 'Ubuntu', sans-serif;
+	background-repeat:no-repeat;
+	background-size:contain;
+	background-position:center;
 }
 .home .max-width{
   width: 100%;
