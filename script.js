@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["YouTuber", "Developer", "Blogger", "Designer", "Freelancer"],
+        strings: ["Best Service", "15 Days Umrah packages", "We're Here to Get You There ", "Hurry up book now limited offer ", "Package starting from Rs=69,786"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["YouTuber", "Developer", "Blogger", "Designer", "Freelancer"],
+        strings: ["Best Service", "15 Days Umrah packages", "We're Here to Get You There ", "Hurry up book now limited offer ", "Package starting from Rs=69,786"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
