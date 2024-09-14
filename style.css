@@ -308,7 +308,7 @@ background-color: #F8FAFD;
 }
 .services .title::after,
 .teams .title::after{
-    background: #white;
+   
     content: "Best In Service Best In Price";
 }
 .services .serv-content .card{
